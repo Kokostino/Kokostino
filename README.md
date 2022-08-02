@@ -1,6 +1,6 @@
 ### Good Morning - Buenos Dias - صباح الخير - Bon Jour - Guten Morgen :boar:
 
-- :crocodile: BLACK GATOR EMERALD - for the commanding adventurer
+- :crocodile: BLACK GATOR EMERALD :crocodile:
 - :palm_tree: I’m currently on a deep dive into GNNs and Geometric Deep Learning
 - :milky_way: Fun fact: I was almost finished with my Bachelor's in Astrophysics when I figured out that "shooting stars make wishes come true" does not have a scientific base
 - :mermaid: I’m interested in wildlife, nature, journaling, image processing and enjoying life
