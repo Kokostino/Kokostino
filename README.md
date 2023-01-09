@@ -7,4 +7,3 @@
 - :mermaid: I’m interested in wildlife, nature, journaling, image processing and enjoying life
 - :whale::dash: The name Kokostino is a wordplay based on supersymmetric name conventions and means the fermionic partner of a coconut (Kokosnuss in German)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokostino&layout=compact&theme=radical&hide=GAP,java,jupyter%20notebook)](https://github.com/kokostino/github-readme-stats)
